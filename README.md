@@ -1,34 +1,5 @@
 
 ![LOGO](https://github.com/user-attachments/assets/b7750ab2-1e7e-4303-9ef1-3b6633133d78)
-
-
-<h1 align="center">Hi 👋, I'm Krishna Singh</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=singhkrishna2003&label=Profile%20views&color=0e75b6&style=flat" alt="singhkrishna2003" /> </p>
-
-- 🌱 I’m currently learning **Spring, Hibernate, React**
-
-- 👨‍💻 All of my projects are available at GitHub [https://github.com/singhkrishna2003](https://github.com/singhkrishna2003)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP, C, Java, MySQL, MongoDB**
-
-- 📫 How to reach me **krishnasingh192003@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1w4E3iITazq8uRECrO-L5D9lSW38ySf-y/view?usp=sharing](https://drive.google.com/file/d/1w4E3iITazq8uRECrO-L5D9lSW38ySf-y/view?usp=sharing)
-
-- ⚡ Fun fact **I am funny😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/krishna-singh-0546a42ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna-singh-0546a42ab" height="30" width="40" /></a>
-<a href="https://instagram.com/official_singh_krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="official_singh_krishna" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/krishna_singh_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishna_singh_2003" height="30" width="40" /></a>
-</p>
-![LOGO](https://github.com/user-attachments/assets/b7750ab2-1e7e-4303-9ef1-3b6633133d78)
-
 <h1 align="center">Hi 👋, I'm Krishna Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
