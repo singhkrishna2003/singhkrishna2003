@@ -17,12 +17,11 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Spring, Hibernate, React** - 👨‍💻 All of my projects
-are available at GitHub
-[https://github.com/singhkrishna2003](https://github.com/singhkrishna2003) - 💬
-Ask me about **HTML, CSS, JavaScript, PHP, C, Java, MySQL, MongoDB** - 📫 How to
-reach me **krishnasingh192003@gmail.com** - 📄 Know about my experiences
-[https://drive.google.com/file/d/1w4E3iITazq8uRECrO-L5D9lSW38ySf-y/view?usp=sharing](https://drive.google.com/file/d/1w4E3iITazq8uRECrO-L5D9lSW38ySf-y/view?usp=sharing)
+- 🌱 I’m currently learning **Spring, Hibernate, React** <br>
+- 👨‍💻 All of my projects are available at GitHub [https://github.com/singhkrishna2003](https://github.com/singhkrishna2003) <br>
+- 💬Ask me about **HTML, CSS, JavaScript, PHP, C, Java, MySQL, MongoDB** <br>
+- 📫 How to reach me **krishnasingh192003@gmail.com** <br>
+- 📄 Know about my experiences [https://drive.google.com/file/d/1w4E3iITazq8uRECrO-L5D9lSW38ySf-y/view?usp=sharing](https://drive.google.com/file/d/1w4E3iITazq8uRECrO-L5D9lSW38ySf-y/view?usp=sharing) <br>
 - ⚡ Fun fact **I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
